@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">tugas5_2018056</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskription_menu">Noken Untuk Memaksimalkan Motor Anda</string>
+    <string name="ingredients">Terbuat Dari Besi Pilihan</string>
+    <string name="price">Harga :</string>
+    <string name="Harga_Cenil">Rp 250.000</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+    <string name="Harga_noken">aa</string>
+    <string name="deskription">bb</string>
+    <string name="kategori">cc</string>
+    <string-array name="Motorku">
+        <item>Gir SSS</item>
+        <item>Karburator PWK</item>
+        <item>Noken</item>
+    </string-array>
+    <string-array name="Star">
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.5</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>150.000</item>
+        <item>350.000</item>
+        <item>250.000</item>
+    </string-array>
+</resources>
+
+
